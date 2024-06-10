@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: / 
+Disallow: /private/
+
+Sitemap: https://tobyblog.click/sitemap.xml
